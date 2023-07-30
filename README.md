@@ -7,8 +7,11 @@ Inference code for the SwinAnomaly paper.
 3. Infer the real-time detection using video_anomaly_detection.py
 
 
-4. Inference Results on ShanghaiTech dataset
+4. Inference Results on ShanghaiTech dataset.
+
+threat detection: 
 https://github.com/Arpit-Bajgoti/SwinAnomaly-Real-Time-Video-Anomaly-Detection-using-Video-Swin-Transformer-and-SORT/assets/73661830/a6329ea7-bcb8-48dc-ab4a-fc52e5ff5f2d
 
+robbery detection:
 https://github.com/Arpit-Bajgoti/SwinAnomaly-Real-Time-Video-Anomaly-Detection-using-Video-Swin-Transformer-and-SORT/assets/73661830/940f8642-4226-42ce-9a8b-9967108fdb03
 
